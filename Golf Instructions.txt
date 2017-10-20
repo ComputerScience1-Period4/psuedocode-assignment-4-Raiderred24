@@ -9,7 +9,9 @@ Game Start
 -Deal 6 cards to all people and flip the 2 center cards
 -Card values are: Aces=1, #'s=their value, Queens=10, Jacks=10, Kings=0, Jokers=-5
 -The person to the right of the dealer starts by either taking the card they can see or flipping 1 card over form the draw pile.
-	If they flip the card from the draw pile they cannot take the card that they could see.
+	If: they flip the card from the draw pile they cannot take the card that they could see:
+	
+	Else:
 
 	If they choose to take the card they drew they can replace one of their cards or put it in the face up pile for the next person to use, if they choose.
 
@@ -30,3 +32,4 @@ Additional rules: If 2 of the same card are directly above and below each other 
 	If turning a face down card from your hand over you MUST put it on the face up deck and trade it with the face up card on top of the deck and cannot keep it.
 	
 You win the game by having the least points at the end of 9 rounds.
+ 
