@@ -1,0 +1,19 @@
+How to play Golf:
+Your goal is to score the lowest possible score over 9 rounds
+Avgerage run time 45 minutes-1 hour 15 minutes
+Required people: 2-8
+Start with 2 decks (jokers included) and shuffle them
+Deal 6 cards to all people and flip the 2 center cards
+Card values are: Aces=1, #'s=their value, Queens=10, Jacks=10, Kings=0, Jokers=-5
+The person to the right of the dealer starts by either taking the card they can see or flipping 1 card over form the draw pile.
+After they flip the card from the draw pile they cannot take the card that they could see.
+They can then choose to take the card they drew or put it in the face up pile for the next person to use, if they choose.
+If they take the face up card on top or draw a card they want, they can trade out one of their 6 cards, face up or down and are then forced to put the card they had on the face up pile.
+1 round ends after any one person flips all 6 of their cards over.
+After someone reveals all 6 of their cards 1 more round goes around so as to keep it fair
+Points are then counted up and tallied over the 9 rounds by a scorekeeper.
+Additional rules: 2 the same card directly aqbove and below each other cancel and count as 0 (-10 if jokers)
+4 of the same cards in a square directly next to each other equal -20 (-40 if jokers)
+6 of the same cards over your entire hand count as -50
+After turning a face down card from your hand over you MUST put it on the face up deck and cannot keep it.
+You win the game by having the least points at the end of 9 rounds.
